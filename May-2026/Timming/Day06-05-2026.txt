@@ -1,0 +1,14 @@
+## What I did today
+
+[x] 2 hour  - Docker, Kubernetes
+[x] 30 min  - Interview Questions 
+[x] 30 min  - English speaking  
+[x] 2 hour  - DevOps hands-on  
+
+---
+
+## Tomorrow's Task
+
+2 hour - K8s, AWS
+30 min - coding  
+30 min - English speaking 

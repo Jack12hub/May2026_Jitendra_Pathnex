@@ -1,0 +1,13 @@
+FROM ubuntu:latest
+
+WORKDIR /app
+
+COPY . ./
+
+RUN npm install
+
+EXPOSE 80
+
+ENTRYPOINT ["sleep"]
+
+CMD ["20"]

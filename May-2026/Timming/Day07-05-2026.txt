@@ -1,0 +1,15 @@
+## What I did today
+
+[x] 2 hour  - Kubernetes, Terraform
+[x] 30 min  - Interview Questions 
+[x] 30 min  - English speaking  
+[x] 1 hour  - DevOps hands-on  
+
+---
+
+## Tomorrow's Task
+
+2 hour - K8s, Helm
+30 min - coding  
+30 min - English speaking 
+1 hour - Question paper

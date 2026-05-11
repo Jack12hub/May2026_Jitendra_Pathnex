@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "🔄 Updating packages..."
+sudo apt update -y
+
+echo "📦 Installing NGINX..."
+sudo apt install nginx -y
+
+echo "🚀 Starting NGINX..."
+sudo systemctl start nginx
+
+echo "✅ Enabling NGINX on boot..."
+sudo systemctl enable nginx
+
+echo "📊 NGINX Status:"
+sudo systemctl status nginx
+
+echo "🎉 NGINX installation completed!"
